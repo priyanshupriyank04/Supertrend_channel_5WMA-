@@ -1,0 +1,2 @@
+This is a historical backtester on Nifty 50 index 2024 data for same strategy being tested on combinations of 15min-1min and 5min-1min timeframes with 15/5 being used for alert candle checks and 1min being used for trade execution.
+This involves use of 2 indicators one is 5WMA other is Supertrend channel which is developed by Luxalgo however for the backtester we have hardcoded each of them from scratch to avoid reliance and exposure to open source indicator failures in the real world due to any kind of possible reasons.
